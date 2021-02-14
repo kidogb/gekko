@@ -1,5 +1,8 @@
 {
   "assets": [
+    "LINK",
+    "DOT",
+    "UNI",
     "NULS",
     "BNB",
     "NEO",
@@ -2421,6 +2424,39 @@
       "pair": [
         "USDT",
         "LTC"
+      ],
+      "minimalOrder": {
+        "amount": 0.00001,
+        "price": 0.01,
+        "order": 10
+      }
+    },
+    {
+      "pair": [
+        "USDT",
+        "DOT"
+      ],
+      "minimalOrder": {
+        "amount": 0.00001,
+        "price": 0.01,
+        "order": 10
+      }
+    },
+    {
+      "pair": [
+        "USDT",
+        "UNI"
+      ],
+      "minimalOrder": {
+        "amount": 0.00001,
+        "price": 0.01,
+        "order": 10
+      }
+    },
+    {
+      "pair": [
+        "USDT",
+        "LINK"
       ],
       "minimalOrder": {
         "amount": 0.00001,
