@@ -1,0 +1,10 @@
+# SMA INDICATOR
+EMA_long = 258
+EMA_short = 175
+DD = 0.76
+TP = 0.86
+TRAILING = 0.1
+
+[ADX]
+adx = 3
+threshold = 25

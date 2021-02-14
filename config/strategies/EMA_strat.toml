@@ -1,0 +1,5 @@
+# SMA Trends
+EMA_long = 89
+EMA_short = 34
+take_profit = 0.5
+stop_loss = 0.5
